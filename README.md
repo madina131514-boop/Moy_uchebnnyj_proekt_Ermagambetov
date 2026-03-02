@@ -6,3 +6,10 @@
 ашуров азим
 ермагамбетов  ермек
 денисов иван
+## 3 Структура репозитория
+1_Upravlenie_proektom/планы,отчеты
+2_Trebovaniya_realizaciya/исходный код
+3_Trebovanie_i_TZ/техническое задание
+4_Testirovanie/текст-кейсы и отчеты
+5_Dokumentaciya/руководство пользоватиля
+6_vnedrenie_i_obuchenie/материалы для внедрения
